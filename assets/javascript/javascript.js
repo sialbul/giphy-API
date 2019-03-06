@@ -44,7 +44,7 @@ $(document).ready(function() {
     // Function that displays all of the gifs
     function displayGifs() {
         var action = $(this).attr("data-name");
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + action + "&api_key=UKtay6Vuf9zxVUev7VOetaATpqCheKXg&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + action + "&api_key=UKtay6Vuf9zxVUev7VOetaATpqCheKXg&limit=10";
 
         console.log(queryURL); // displays the constructed url
         $.ajax({
