@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function() {
 
     // An array of actions, new actions will be pushed into this array;
     var actions = ["Horror", "Scary", "Zombies", "Mummy", "Werewolf", "Vampire", "Ghost", "Devil", "Exorcism", "Possesion", "The Nun", "It", "Alien"];
