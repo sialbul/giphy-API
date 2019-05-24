@@ -12,4 +12,5 @@ In this assignment, I used the GIPHY API to make a dynamic web page that populat
 
 * User can remove their last action.
 
+You can visit the web site from [this link.](https://sialbul.github.io/giphy-API/)
 
